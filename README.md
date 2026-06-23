@@ -2,7 +2,7 @@
 
 💻 Développeur FullStack chez [Actinvision](https://www.actinvision.com/), un cabinet de conseil spécialisé dans la **Data** à Strasbourg.  
 🚀 Actuellement, je travaille sur des projets de **Business Intelligence** en lien avec **Power BI** et **Tableau**, ainsi que sur des solutions orientées **data**.  
-📍 Avant cela, j'ai eu une expérience de **5 ans** en tant que développeur dans une agence de communication sur une stack PHP.  
+📍 Avant cela, j'ai eu une expérience de **5 ans et 9 mois** en tant que développeur dans une agence de communication sur une stack PHP / JavaScript.  
 
 ## 🛠️ Stack & Compétences
 
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white"/>
 </p>
 
-## 🎯 Spécialités Envisagées
+## 🎯 Spécialités
 🌍 **Big Data / IA**  
 
 ## 🎵 Centres d'intérêt
