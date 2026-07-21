@@ -1,10 +1,14 @@
 # 👋 Hello, moi c'est Julien Rochefolle !
 
-💻 Développeur FullStack chez [Actinvision](https://www.actinvision.com/), un cabinet de conseil spécialisé dans la **Data** à Strasbourg.  
-🚀 Actuellement, je travaille sur des projets de **Business Intelligence** en lien avec **Power BI** et **Tableau**, ainsi que sur des solutions orientées **data**.  
-📍 Avant cela, j'ai eu une expérience de **5 ans et 9 mois** en tant que développeur dans une agence de communication sur une stack PHP / JavaScript.  
+Développeur FullStack chez [Actinvision](https://www.actinvision.com/), un cabinet de conseil spécialisé dans la **Data** à Strasbourg.
+Actuellement, je travaille sur des projets de **Business Intelligence** en lien avec **Power BI** et **Tableau**, ainsi que sur des solutions orientées **data**.
+Avant cela, j'ai eu une expérience de **5 ans et 9 mois** en tant que développeur dans une agence de communication sur une stack PHP / JavaScript.
 
-## 🛠️ Stack & Compétences
+<p align="center">
+  <img src="assets/jro-terminal.gif" alt="Animation de terminal affichant JRO" />
+</p>
+
+## Stack & Compétences
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
@@ -27,11 +31,11 @@
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white"/>
 </p>
 
-## 🎯 Spécialités
-🌍 **Big Data / IA**  
+## Spécialités
+**Big Data / IA**
 
-## 🎵 Centres d'intérêt
-- 🏋️ **Sport** : passionné par le sport en général notamment le football ⚽ 
-- 🏔️ **Randonnée** : toujours partant pour une balade en montagne  
-- 🎶 **Musique** : amateur de concert et de festivals
-- 🎮 **Jeux Vidéo** : joueur passionné, fan des jeux From Software et RPG en général
+## Centres d'intérêt
+- **Sport** : passionné par le sport en général notamment le football
+- **Randonnée** : toujours partant pour une balade en montagne
+- **Musique** : amateur de concert et de festivals
+- **Jeux Vidéo** : joueur passionné, fan des jeux From Software et RPG en général
